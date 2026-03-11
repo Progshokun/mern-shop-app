@@ -8,7 +8,7 @@ The project includes both **frontend and backend**, providing a complete online 
 # 📸 Screenshots
 
 ## Main Page
-![Main page]([[./Screenshot_1.jpg]](https://github.com/Progshokun/mern-shop-app/blob/main/Screenshot_1.jpg?raw=true))
+![Main page](https://github.com/Progshokun/mern-shop-app/blob/main/Screenshot_1.jpg?raw=true)
 
 
 ---
