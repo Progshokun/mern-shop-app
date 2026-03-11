@@ -1,3 +1,3 @@
-const API = import.meta.env.VITE_API_URL;
+const API_URL = "https://mern-shop-app-2hh5.onrender.com";
 
-fetch(`${API}/products`);
+fetch(`${API_URL}/api/products`);
