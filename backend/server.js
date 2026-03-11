@@ -11,7 +11,7 @@ const PORT = process.env.PORT || 5000;
 
 app.use(
   cors({
-    origin: "https://mern-shop-app-rosy.vercel.app/",
+    origin: "https://mern-shop-app-rosy.vercel.app",
   }),
 );
 
