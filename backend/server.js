@@ -9,15 +9,19 @@ dotenv.config();
 const app = express();
 const PORT = process.env.PORT || 5000;
 
-app.use(express.json());
-
-app.use("/api/products", router);
-
 app.use(
   cors({
     origin: "https://mern-app.vercel.app",
   }),
 );
+
+app.use(express.json());
+
+app.get("/", (req, res) => {
+  res.send("API is running");
+});
+
+app.use("/api/products", router);
 
 app.listen(PORT, () => {
   connectDB();
