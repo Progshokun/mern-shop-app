@@ -3,15 +3,12 @@
 Full‑stack **eCommerce application** built with the **MERN stack**.  
 The project includes both **frontend and backend**, providing a complete online store architecture with REST API and a client interface.
 
-🔗 **Repository:**  
-https://github.com/Progshokun/mern-shop-app
-
 ---
 
 # 📸 Screenshots
 
 ## Main Page
-![Main page]([./Screenshot_1.jpg])
+![Main page]([[./Screenshot_1.jpg]](https://github.com/Progshokun/mern-shop-app/blob/main/Screenshot_1.jpg?raw=true))
 
 
 ---
