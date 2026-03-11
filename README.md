@@ -11,7 +11,8 @@ https://github.com/Progshokun/mern-shop-app
 # 📸 Screenshots
 
 ## Main Page
-![Main page]([./screenshots/home.png](https://github.com/Progshokun/mern-shop-app/blob/main/Screenshot_1.jpg?raw=true))
+![Main page]([./Screenshot_1.jpg](https://github.com/Progshokun/mern-shop-app/blob/main/Screenshot_1.jpg?raw=true))
+
 
 ---
 
